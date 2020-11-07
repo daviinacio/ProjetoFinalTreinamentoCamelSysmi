@@ -18,3 +18,5 @@ buildNumber.properties
 # End of https://www.toptal.com/developers/gitignore/api/maven
 
 *.pdf
+nbactions.xml
+nb-configuration.xml
